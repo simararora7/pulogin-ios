@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  Pu Login
 //
-//  Created by Nischal Reddy on 06/08/15.
+//  Created by Simar Arora on 06/08/15.
 //  Copyright (c) 2015 Simar Arora. All rights reserved.
 //
 
